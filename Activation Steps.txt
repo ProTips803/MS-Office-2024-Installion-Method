@@ -1,0 +1,20 @@
+Steps to Activate the MS Office 
+
+Open Power Shell (run as administrator)
+
+step 1:
+
+type -> irm https://get.activated.win | iex
+
+try this (irm https://massgrave.dev/get | iex) if first one did not work 
+
+step 2:
+
+then press 2
+
+step 3:
+
+press 1
+
+
+************* ms office activated ********************
